@@ -5,7 +5,7 @@
 // ======================================================
 
 // 🔴 Replace with your Google Apps Script /exec URL
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzj8kco9youvhg4ynngJSA0pHvux0L6z8L0DYlh4wjEo3orF9zkErEjCMQ9Erwqw9jd/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbygGlNA9lkv7eL56oAG_yOldH1LnG7SgcqUp0qIc3oMEBmT1oORnwV6AkdlSAYbVura/exec";
 
 // ======================================================
 // DOM ELEMENTS
